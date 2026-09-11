@@ -12,6 +12,7 @@
   <a href="https://profolio-xi-pied.vercel.app/"><img src="https://custom-icon-badges.herokuapp.com/badge/Portfolio-1F222E?style=for-the-badge&logo=globe&logoColor=58A6FF" alt="Portfolio" /></a>
   <a href="mailto:ngoctien20022005@gmail.com"><img src="https://custom-icon-badges.herokuapp.com/badge/Email-1F222E?style=for-the-badge&logo=mail&logoColor=58A6FF" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-nin-7b0bba355/"><img src="https://custom-icon-badges.herokuapp.com/badge/LinkedIn-1F222E?style=for-the-badge&logo=link&logoColor=58A6FF" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/nin.tran0205"><img src="https://custom-icon-badges.herokuapp.com/badge/Facebook-1F222E?style=for-the-badge&logo=facebook&logoColor=58A6FF" alt="Facebook" /></a>
 </p>
 
 ### 👨‍💻 About me
