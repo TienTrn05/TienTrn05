@@ -35,10 +35,10 @@
   <a href="https://github.com/TienTrn05/Heart-Rate-Monitor-and-Fall-Detection-Device"><img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TienTrn05&repo=Heart-Rate-Monitor-and-Fall-Detection-Device&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_border=true&show_description=false" alt="Health Monitor — Flutter realtime dashboard and sensor integration" /></a>
 </p>
 
-- **[MoneyBoys](https://github.com/TienTrn05/ProjectFinalMobile-)** — Team finance app using Flutter, BLoC/Cubit, and Supabase. My contribution: data models, CRUD flows, and database work.
+- **[MoneyBoys](https://github.com/TienTrn05/ProjectFinalMobile-)** — Team finance app built with Flutter and Supabase. My contribution: data models, CRUD flows, and database work.
 - **[Thiệp & Hoa](https://github.com/TienTrn05/ThiepvaHoaCNW)** — Web storefront with cart, checkout, orders, and administration using Java, JSP, Jakarta Servlets, and MySQL.
 - **[Personal Portfolio](https://github.com/TienTrn05/Profolio)** — React and Vite website with responsive layouts, project case studies, and theme switching. **[Live demo ↗](https://profolio-xi-pied.vercel.app/)**
-- **[Health Monitor](https://github.com/TienTrn05/Heart-Rate-Monitor-and-Fall-Detection-Device)** — Academic prototype with a realtime Flutter dashboard. My work includes firmware, sensor logic, and app integration with Socket.IO and MQTT telemetry.
+- **[Health Monitor](https://github.com/TienTrn05/Heart-Rate-Monitor-and-Fall-Detection-Device)** — Academic prototype with a realtime Flutter dashboard. My work includes firmware, sensor logic, and telemetry integration using Socket.IO and MQTT.
 
 <p>
   <a href="https://github.com/TienTrn05?tab=repositories"><img src="https://custom-icon-badges.herokuapp.com/badge/All%20repositories-1F222E?style=for-the-badge&logo=repo&logoColor=58A6FF" alt="Browse all repositories" /></a>
@@ -60,24 +60,26 @@
   <img src="https://custom-icon-badges.herokuapp.com/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
-#### 📱 Mobile Frontend
+#### 📱 Mobile Development
 
 <p>
   <img src="https://custom-icon-badges.herokuapp.com/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://custom-icon-badges.herokuapp.com/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://custom-icon-badges.herokuapp.com/badge/BLoC%20%2F%20Cubit-1F222E?style=for-the-badge" alt="BLoC and Cubit" />
-  <img src="https://custom-icon-badges.herokuapp.com/badge/Provider-1F222E?style=for-the-badge" alt="Provider" />
 </p>
 
-#### ⚙️ Backend & Databases
+#### ⚙️ Backend & Data
 
 <p>
-  <img src="https://custom-icon-badges.herokuapp.com/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-
   <img src="https://custom-icon-badges.herokuapp.com/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase" />
   <img src="https://custom-icon-badges.herokuapp.com/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://custom-icon-badges.herokuapp.com/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+#### 🔄 Realtime Communication
+
+<p>
   <img src="https://custom-icon-badges.herokuapp.com/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+  <img src="https://custom-icon-badges.herokuapp.com/badge/MQTT-660066?style=for-the-badge" alt="MQTT" />
 </p>
 
 #### 🌱 Currently Learning
