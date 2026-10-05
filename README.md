@@ -72,7 +72,8 @@
 #### ⚙️ Backend & Databases
 
 <p>
-  <img src="https://custom-icon-badges.herokuapp.com/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://custom-icon-badges.herokuapp.com/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://custom-icon-badges.herokuapp.com/badge/Express-1F222E?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://custom-icon-badges.herokuapp.com/badge/JSP%20%2F%20Servlets-1F222E?style=for-the-badge" alt="JSP and Jakarta Servlets" />
   <img src="https://custom-icon-badges.herokuapp.com/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase" />
   <img src="https://custom-icon-badges.herokuapp.com/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
